@@ -6,7 +6,7 @@ using namespace std
 class construc_to_func
 {
 private:
-    /* data */
+    int count;
 public:
     construc_to_func(/* args */);
     ~construc_to_func();
